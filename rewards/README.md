@@ -2,9 +2,11 @@
 以下の共有設定の元で実験を行った。
 ## course
 * re:Invent 2018
+
 <p align="center">
-<img src="images/" width="150px">
+<img src="images/course.png" width="150px">
 </p>
+
 ## 状態数
 * Maximum steering angle : -30 ～ 30 degrees
 * Steering angle granularity: 7
@@ -27,9 +29,15 @@
 様々な報酬関数の設計に従ってどのようになるか実験する。
 ### 実験1
 まっすぐ走るとお得な場合 (`reward_function_1.py`)を利用する。
+* training
+<p align="center">
+<img src="images/train1.png" width="150px">
+</p>
 
-
-
+* evaluate
+<p align="center">
+<img src="images/eval1.png" width="150px">
+</p>
 
 
 (2) 速いスピードがよい
