@@ -39,11 +39,19 @@
 <img src="images/eval1.png" width="600px">
 </p>
 
+### 実験2
+速いスピードがよい(`reward_function_2.py`)を利用する。
+* training
+<p align="center">
+<img src="images/train2.png" width="600px">
+</p>
 
-(2) 速いスピードがよい
-```
-reward_function_2.py
-```
+* evaluate
+<p align="center">
+<img src="images/eval2.png" width="600px">
+</p>
+
+
 (3) ジグザグ走行を抑止
 ```
 reward_function_3.py
