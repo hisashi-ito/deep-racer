@@ -4,7 +4,7 @@
 * re:Invent 2018
 
 <p align="center">
-<img src="images/course.png" width="500px">
+<img src="images/course.png" width="300px">
 </p>
 
 ## 状態数
@@ -31,36 +31,36 @@
 まっすぐ走るとお得な場合 (`reward_function_1.py`)を利用する。
 * training
 <p align="center">
-<img src="images/train1.png" width="600px">
+<img src="images/train1.png" width="300px">
 </p>
 
 * evaluate
 <p align="center">
-<img src="images/eval1.png" width="600px">
+<img src="images/eval1.png" width="300px">
 </p>
 
 ### 実験2
 速いスピードがよい(`reward_function_2.py`)を利用する。
 * training
 <p align="center">
-<img src="images/train2.png" width="600px">
+<img src="images/train2.png" width="300px">
 </p>
 
 * evaluate
 <p align="center">
-<img src="images/eval2.png" width="600px">
+<img src="images/eval2.png" width="300px">
 </p>
 
 ### 実験3
 ジグザグ走行抑止(`reward_function_3.py`)を利用する。
 * training
 <p align="center">
-<img src="images/train3.png" width="600px">
+<img src="images/train3.png" width="300px">
 </p>
 
 * evaluate
 <p align="center">
-<img src="images/eval3.png" width="600px">
+<img src="images/eval3.png" width="300px">
 </p>
 
 
