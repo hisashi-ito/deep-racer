@@ -1,8 +1,33 @@
-## 報酬関数サンプル
-(1) まっすぐ走るとお得な場合
-```
-reward_function_1.py
-```
+# 実験
+以下の共有設定の元で実験を行った。
+## 状態数
+* Maximum steering angle : -30 ～ 30 degrees
+* Steering angle granularity: 7
+* Maximum speed: 12
+* Speed granularity: 3
+
+## Hyperparameter
+| パラメータ名 | 設定 |
+----|---- 
+| 学習時間 | 60 [min] |
+| Gradient descent batch size | 64 |
+| Entropy | 0.01 |
+| Discount factor | 0.999|
+| Loss type | Huber|
+| Learning rate| 0.0003|
+| Number of experience episodes between each policy-updating iteration| 20|
+| Number of epochs|10|
+
+
+
+
+
+## 
+(1) まっすぐ走るとお得な場合 (`reward_function_1.py`)
+
+
+
+
 (2) 速いスピードがよい
 ```
 reward_function_2.py
