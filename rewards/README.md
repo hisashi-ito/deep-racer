@@ -1,5 +1,7 @@
 # 実験
 以下の共有設定の元で実験を行った。
+## course
+* re:Invent 2018
 ## 状態数
 * Maximum steering angle : -30 ～ 30 degrees
 * Steering angle granularity: 7
@@ -18,12 +20,11 @@
 | Number of experience episodes between each policy-updating iteration| 20|
 | Number of epochs|10|
 
+## 報酬関数実験
+様々な報酬関数の設計に従ってどのようになるか実験する。
+### 実験1
+まっすぐ走るとお得な場合 (`reward_function_1.py`)を利用する。
 
-
-
-
-## 
-(1) まっすぐ走るとお得な場合 (`reward_function_1.py`)
 
 
 
