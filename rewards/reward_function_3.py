@@ -9,7 +9,7 @@ def reward_function(params):
     STEERING_THRESHOLD = 20.0
     
     # コースの中にいるか判定値(boolean)
-    all_wheels_on_track = params['all_wsheels_on_track']
+    all_wheels_on_track = params['all_wheels_on_track']
 
     # ハンドルのきり幅
     # -30度から30度までを取得(プラスマイナスは無視)
