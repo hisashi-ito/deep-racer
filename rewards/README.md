@@ -4,7 +4,7 @@
 * re:Invent 2018
 
 <p align="center">
-<img src="images/course.png" width="150px">
+<img src="images/course.png" width="500px">
 </p>
 
 ## 状態数
@@ -31,12 +31,12 @@
 まっすぐ走るとお得な場合 (`reward_function_1.py`)を利用する。
 * training
 <p align="center">
-<img src="images/train1.png" width="150px">
+<img src="images/train1.png" width="600px">
 </p>
 
 * evaluate
 <p align="center">
-<img src="images/eval1.png" width="150px">
+<img src="images/eval1.png" width="600px">
 </p>
 
 
