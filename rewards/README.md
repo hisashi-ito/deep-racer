@@ -51,11 +51,19 @@
 <img src="images/eval2.png" width="600px">
 </p>
 
+### 実験3
+ジグザグ走行抑止(`reward_function_3.py`)を利用する。
+* training
+<p align="center">
+<img src="images/train3.png" width="600px">
+</p>
 
-(3) ジグザグ走行を抑止
-```
-reward_function_3.py
-```
+* evaluate
+<p align="center">
+<img src="images/eval3.png" width="600px">
+</p>
+
+
 (4) ース上に設定されたポイントに向かって進むように制御する
 ```
 reward_function_4.py
