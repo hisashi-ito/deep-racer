@@ -6,7 +6,7 @@
 #
 def reward_function(params):
     # コースの中にいるか判定値(boolean)
-    all_wheels_on_track = params['all_wsheels_on_track']
+    all_wheels_on_track = params['all_wheels_on_track']
     # スピードを取得(m/sec)
     speed = float(params['speed'])
     
