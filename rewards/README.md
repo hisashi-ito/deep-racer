@@ -2,6 +2,9 @@
 以下の共有設定の元で実験を行った。
 ## course
 * re:Invent 2018
+<p align="center">
+<img src="images/" width="150px">
+</p>
 ## 状態数
 * Maximum steering angle : -30 ～ 30 degrees
 * Steering angle granularity: 7
