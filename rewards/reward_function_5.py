@@ -14,7 +14,7 @@ def reward_function(params):
     # 報酬のDefault値
     reward = 1.0
 
-    if (steps % 100) == 0 and progress > (steps / TOTAL_NUM_STEPS)
+    if (steps % 100) == 0 and progress > (steps / TOTAL_NUM_STEPS):
         # 平均よりも完走率が上回っている場合
         # 報酬をブーストただし特定のタイミングでしたブーストしない
         reward += 10.0

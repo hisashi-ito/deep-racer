@@ -63,12 +63,38 @@
 <img src="images/eval3.png" width="500px">
 </p>
 
+### 実験4
+コース上に設定されたポイントにむかって制御する(`reward_function_4.py`)を利用する。
+* training
+<p align="center">
+<img src="images/train4.png" width="500px">
+</p>
 
-(4) ース上に設定されたポイントに向かって進むように制御する
-```
-reward_function_4.py
-```
-(5) ステップとプロセスに関する報酬関数
-```
-reward_function_5.py
-```
+* evaluate
+<p align="center">
+<img src="images/eval4.png" width="500px">
+</p>
+
+### 実験5
+過去の評価を反映する(`reward_function_5.py`)を利用する。
+* training
+<p align="center">
+<img src="images/train5.png" width="500px">
+</p>
+
+* evaluate
+<p align="center">
+<img src="images/eval5.png" width="500px">
+</p>
+
+### 実験6
+過去の評価を反映する(`reward_function_6.py`)を利用する。その２
+* training
+<p align="center">
+<img src="images/train6.png" width="500px">
+</p>
+
+* evaluate
+<p align="center">
+<img src="images/eval6.png" width="500px">
+</p>

@@ -142,6 +142,6 @@ params 辞書オブジェクトには、次のキーと値のペアが含まれ�
 <img src="https://docs.aws.amazon.com/ja_jp/deepracer/latest/developerguide/images/deepracer-reward-function-input-waypoints.png" width="300px"><br>waypoints
 </p>
 
-### 報酬関数例
-1. センターラインに沿って走る
-
+## 実験結果
+実験結果は以下のページに記載
+https://github.com/hisashi-ito/deep-racer/tree/master/rewards
